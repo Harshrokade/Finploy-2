@@ -1,0 +1,4740 @@
+{
+  "sitemap_file": "comprehensive_sitemap.xml",
+  "validation_date": "2025-08-08T19:25:02.863298",
+  "total_urls": 788,
+  "results": {
+    "https://www.finploy.com": {
+      "url": "https://www.finploy.com",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-slr": {
+      "url": "https://www.finploy.com/jobs-in-slr",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-international-transfers": {
+      "url": "https://www.finploy.com/jobs-in-international-transfers",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-branch-internship-executive": {
+      "url": "https://www.finploy.com/jobs-in-branch-internship-executive",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-digital-platforms": {
+      "url": "https://www.finploy.com/jobs-in-others-in-digital-platforms",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-invt-trading": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-invt-trading",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-prime-lap-only": {
+      "url": "https://www.finploy.com/jobs-in-prime-lap-only",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-collections": {
+      "url": "https://www.finploy.com/jobs-in-collections",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sales---life-insurance": {
+      "url": "https://www.finploy.com/jobs-in-sales---life-insurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-other-dept-in-legal-compliance-risk": {
+      "url": "https://www.finploy.com/jobs-in-other-dept-in-legal-compliance-risk",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-assistant-credit-managers": {
+      "url": "https://www.finploy.com/jobs-in-assistant-credit-managers",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-cholamandalam-investment-and-finance": {
+      "url": "https://www.finploy.com/jobs-in-cholamandalam-investment-and-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-business-development-manager": {
+      "url": "https://www.finploy.com/jobs-in-business-development-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-export-import": {
+      "url": "https://www.finploy.com/jobs-in-export-import",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-term-loans--corporate": {
+      "url": "https://www.finploy.com/jobs-in-term-loans--corporate",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-invt-banking-pe-vc": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-invt-banking-pe-vc",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-cash-credit-overdraft-bill-discounting": {
+      "url": "https://www.finploy.com/jobs-in-cash-credit-overdraft-bill-discounting",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-branch-credit--manager": {
+      "url": "https://www.finploy.com/jobs-in-branch-credit--manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-talent-acquisition": {
+      "url": "https://www.finploy.com/jobs-in-talent-acquisition",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-esg--sustainable-finance": {
+      "url": "https://www.finploy.com/jobs-in-others-in-esg--sustainable-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-retail-gen-insurance": {
+      "url": "https://www.finploy.com/jobs-in-retail-gen-insurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-macro-strategy": {
+      "url": "https://www.finploy.com/jobs-in-macro-strategy",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-ajitgarh": {
+      "url": "https://www.finploy.com/jobs-in-ajitgarh",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-aditya-birla-housing-finance": {
+      "url": "https://www.finploy.com/jobs-in-aditya-birla-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-ma-advisory": {
+      "url": "https://www.finploy.com/jobs-in-others-in-ma-advisory",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-customer-relationship-officer": {
+      "url": "https://www.finploy.com/jobs-in-customer-relationship-officer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-chargebacks": {
+      "url": "https://www.finploy.com/jobs-in-chargebacks",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-debt-capital-markets": {
+      "url": "https://www.finploy.com/jobs-in-others-in-debt-capital-markets",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-investments-book": {
+      "url": "https://www.finploy.com/jobs-in-investments-book",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-senior-area-manager": {
+      "url": "https://www.finploy.com/jobs-in-senior-area-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-card--payment-ops": {
+      "url": "https://www.finploy.com/jobs-in-others-in-card--payment-ops",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-legal-vetting": {
+      "url": "https://www.finploy.com/jobs-in-legal-vetting",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-sales--life-ins": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-sales--life-ins",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-relationship-officer": {
+      "url": "https://www.finploy.com/jobs-in-relationship-officer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-options--futures": {
+      "url": "https://www.finploy.com/jobs-in-options--futures",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hr--training": {
+      "url": "https://www.finploy.com/jobs-in-hr--training",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hr-manager": {
+      "url": "https://www.finploy.com/jobs-in-hr-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-central-processing-centre-cpc": {
+      "url": "https://www.finploy.com/jobs-in-central-processing-centre-cpc",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-digital-operations": {
+      "url": "https://www.finploy.com/jobs-in-others-in-digital-operations",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-fixed-income-trading": {
+      "url": "https://www.finploy.com/jobs-in-fixed-income-trading",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-collections--recovery": {
+      "url": "https://www.finploy.com/jobs-in-others-in-collections--recovery",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-open-market-dst-sales": {
+      "url": "https://www.finploy.com/jobs-in-open-market-dst-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-algo-trading-platforms": {
+      "url": "https://www.finploy.com/jobs-in-algo-trading-platforms",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-moradabad": {
+      "url": "https://www.finploy.com/jobs-in-moradabad",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-cash-mgmt": {
+      "url": "https://www.finploy.com/jobs-in-others-in-cash-mgmt",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-insurtech": {
+      "url": "https://www.finploy.com/jobs-in-insurtech",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-other-dept-in-invt-banking-pe-vc": {
+      "url": "https://www.finploy.com/jobs-in-other-dept-in-invt-banking-pe-vc",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-motor": {
+      "url": "https://www.finploy.com/jobs-in-motor",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-legal--sarfaesi": {
+      "url": "https://www.finploy.com/jobs-in-legal--sarfaesi",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-trade-ops": {
+      "url": "https://www.finploy.com/jobs-in-others-in-trade-ops",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-dst": {
+      "url": "https://www.finploy.com/jobs-in-dst",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-fx-hedging-interest-rate-swaps": {
+      "url": "https://www.finploy.com/jobs-in-fx-hedging-interest-rate-swaps",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-infra-real-estate-pharma-auto-it-etc": {
+      "url": "https://www.finploy.com/jobs-in-infra-real-estate-pharma-auto-it-etc",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-luxury-lap-only": {
+      "url": "https://www.finploy.com/jobs-in-luxury-lap-only",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-credit-underwriting": {
+      "url": "https://www.finploy.com/jobs-in-others-in-credit-underwriting",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-operations-central--support": {
+      "url": "https://www.finploy.com/jobs-in-operations-central--support",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-green-bonds": {
+      "url": "https://www.finploy.com/jobs-in-green-bonds",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-upi--ppi-ops": {
+      "url": "https://www.finploy.com/jobs-in-upi--ppi-ops",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-large-corporate-midmarket-sme": {
+      "url": "https://www.finploy.com/jobs-in-large-corporate-midmarket-sme",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-ma-advisory": {
+      "url": "https://www.finploy.com/jobs-in-ma-advisory",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-cheque-truncation": {
+      "url": "https://www.finploy.com/jobs-in-cheque-truncation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-jabalpur": {
+      "url": "https://www.finploy.com/jobs-in-jabalpur",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-distribution": {
+      "url": "https://www.finploy.com/jobs-in-distribution",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-direct-sales-manager": {
+      "url": "https://www.finploy.com/jobs-in-direct-sales-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sales--corporate--institutional": {
+      "url": "https://www.finploy.com/jobs-in-sales--corporate--institutional",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-mas-finance-services-limited": {
+      "url": "https://www.finploy.com/jobs-in-mas-finance-services-limited",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-debt-capital-markets": {
+      "url": "https://www.finploy.com/jobs-in-debt-capital-markets",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-gorakhpur": {
+      "url": "https://www.finploy.com/jobs-in-gorakhpur",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-faridabad": {
+      "url": "https://www.finploy.com/jobs-in-faridabad",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-loans": {
+      "url": "https://www.finploy.com/jobs-in-loans",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-pms-portfolio-mgmt": {
+      "url": "https://www.finploy.com/jobs-in-pms-portfolio-mgmt",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-reconciliation--settlement": {
+      "url": "https://www.finploy.com/jobs-in-reconciliation--settlement",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-relatioship-officer": {
+      "url": "https://www.finploy.com/jobs-in-relatioship-officer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-other-dept-in-sales--gen-ins": {
+      "url": "https://www.finploy.com/jobs-in-other-dept-in-sales--gen-ins",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-sales--loans-retail": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-sales--loans-retail",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-b2b-ifa-channel-sales": {
+      "url": "https://www.finploy.com/jobs-in-b2b-ifa-channel-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-mutual-funds--asset-mgmt": {
+      "url": "https://www.finploy.com/jobs-in-mutual-funds--asset-mgmt",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-sales--corp-bkg": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-sales--corp-bkg",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-treasury-products": {
+      "url": "https://www.finploy.com/jobs-in-treasury-products",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-manager-tele-sales": {
+      "url": "https://www.finploy.com/jobs-in-manager-tele-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-corporate-investment-banking": {
+      "url": "https://www.finploy.com/jobs-in-corporate-investment-banking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-rights-issues": {
+      "url": "https://www.finploy.com/jobs-in-rights-issues",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-succession--estate-planning": {
+      "url": "https://www.finploy.com/jobs-in-succession--estate-planning",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-wealth-management-firm": {
+      "url": "https://www.finploy.com/jobs-in-wealth-management-firm",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-alm--liquidity": {
+      "url": "https://www.finploy.com/jobs-in-alm--liquidity",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-officer": {
+      "url": "https://www.finploy.com/jobs-in-officer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-ulips": {
+      "url": "https://www.finploy.com/jobs-in-ulips",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-thiruvananthapuram": {
+      "url": "https://www.finploy.com/jobs-in-thiruvananthapuram",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-banking-financial-services-and-insurance": {
+      "url": "https://www.finploy.com/jobs-in-banking-financial-services-and-insurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-varanasi": {
+      "url": "https://www.finploy.com/jobs-in-varanasi",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-disputes": {
+      "url": "https://www.finploy.com/jobs-in-disputes",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-both-salaried-and-self-employed": {
+      "url": "https://www.finploy.com/jobs-in-both-salaried-and-self-employed",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-jaipur": {
+      "url": "https://www.finploy.com/jobs-in-jaipur",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-equity--derivatives-dealing": {
+      "url": "https://www.finploy.com/jobs-in-others-in-equity--derivatives-dealing",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-sales--gen-ins": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-sales--gen-ins",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-both--domestic-and-overseas": {
+      "url": "https://www.finploy.com/jobs-in-both--domestic-and-overseas",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-review--monitoring": {
+      "url": "https://www.finploy.com/jobs-in-others-in-review--monitoring",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-other-dept-in-broking-wealth": {
+      "url": "https://www.finploy.com/jobs-in-other-dept-in-broking-wealth",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-endowment--money-back": {
+      "url": "https://www.finploy.com/jobs-in-endowment--money-back",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-api-gateway": {
+      "url": "https://www.finploy.com/jobs-in-api-gateway",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-self-employed-only": {
+      "url": "https://www.finploy.com/jobs-in-self-employed-only",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-agency-channel": {
+      "url": "https://www.finploy.com/jobs-in-others-in-agency-channel",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-branch-distribution": {
+      "url": "https://www.finploy.com/jobs-in-branch-distribution",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-equity-debt-hybrid-thematic": {
+      "url": "https://www.finploy.com/jobs-in-equity-debt-hybrid-thematic",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-branch-development-manager": {
+      "url": "https://www.finploy.com/jobs-in-branch-development-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-thane": {
+      "url": "https://www.finploy.com/jobs-in-thane",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-dept-category-others": {
+      "url": "https://www.finploy.com/jobs-in-dept-category-others",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-manager": {
+      "url": "https://www.finploy.com/jobs-in-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-srinagar": {
+      "url": "https://www.finploy.com/jobs-in-srinagar",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-early-bucket-0-30-dpd": {
+      "url": "https://www.finploy.com/jobs-in-early-bucket-0-30-dpd",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-farm-sales": {
+      "url": "https://www.finploy.com/jobs-in-farm-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-unsecured-plblcc": {
+      "url": "https://www.finploy.com/jobs-in-unsecured-plblcc",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hni-pms": {
+      "url": "https://www.finploy.com/jobs-in-hni-pms",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-nagpur": {
+      "url": "https://www.finploy.com/jobs-in-nagpur",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hard-bucket": {
+      "url": "https://www.finploy.com/jobs-in-hard-bucket",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-credit": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-credit",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-fraud--investigation": {
+      "url": "https://www.finploy.com/jobs-in-others-in-fraud--investigation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-both-affordable-and-prime-lap": {
+      "url": "https://www.finploy.com/jobs-in-both-affordable-and-prime-lap",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-payments": {
+      "url": "https://www.finploy.com/jobs-in-payments",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-capital-markets": {
+      "url": "https://www.finploy.com/jobs-in-capital-markets",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-manager--dsa-and-dst": {
+      "url": "https://www.finploy.com/jobs-in-manager--dsa-and-dst",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-bajaj-capital-insurance-broking-ltd": {
+      "url": "https://www.finploy.com/jobs-in-bajaj-capital-insurance-broking-ltd",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-corporate-cms-relationship-manager": {
+      "url": "https://www.finploy.com/jobs-in-corporate-cms-relationship-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-documentation-audit": {
+      "url": "https://www.finploy.com/jobs-in-documentation-audit",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-departments-within-sales": {
+      "url": "https://www.finploy.com/jobs-in-all-departments-within-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-both-affordable-and-prime-hl-and-lap": {
+      "url": "https://www.finploy.com/jobs-in-both-affordable-and-prime-hl-and-lap",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sales-casa-deposits-mfs": {
+      "url": "https://www.finploy.com/jobs-in-sales-casa-deposits-mfs",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-commercial--specialty": {
+      "url": "https://www.finploy.com/jobs-in-commercial--specialty",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-ma-integration": {
+      "url": "https://www.finploy.com/jobs-in-ma-integration",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-direct--online": {
+      "url": "https://www.finploy.com/jobs-in-direct--online",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-engineering": {
+      "url": "https://www.finploy.com/jobs-in-engineering",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-other-dept-in-treasury-forex": {
+      "url": "https://www.finploy.com/jobs-in-other-dept-in-treasury-forex",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-domestic": {
+      "url": "https://www.finploy.com/jobs-in-domestic",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-legal-litigation": {
+      "url": "https://www.finploy.com/jobs-in-others-in-legal-litigation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-broking-trading-asset--wealth-mgt": {
+      "url": "https://www.finploy.com/jobs-in-broking-trading-asset--wealth-mgt",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-fintech": {
+      "url": "https://www.finploy.com/jobs-in-fintech",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-executive-tele-sales": {
+      "url": "https://www.finploy.com/jobs-in-executive-tele-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-cluster-business-head": {
+      "url": "https://www.finploy.com/jobs-in-cluster-business-head",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-fixed-income-dealing": {
+      "url": "https://www.finploy.com/jobs-in-fixed-income-dealing",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-mumbai": {
+      "url": "https://www.finploy.com/jobs-in-mumbai",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-casa": {
+      "url": "https://www.finploy.com/jobs-in-casa",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-insurance-general": {
+      "url": "https://www.finploy.com/jobs-in-insurance-general",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-yield-curve-trades": {
+      "url": "https://www.finploy.com/jobs-in-yield-curve-trades",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-finance-accountstaxation": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-finance-accountstaxation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others--dsa-sales": {
+      "url": "https://www.finploy.com/jobs-in-others--dsa-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-corporate-insurance": {
+      "url": "https://www.finploy.com/jobs-in-corporate-insurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-medical-uw": {
+      "url": "https://www.finploy.com/jobs-in-medical-uw",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-protium-housing-finance": {
+      "url": "https://www.finploy.com/jobs-in-protium-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-drt--sarfaesi": {
+      "url": "https://www.finploy.com/jobs-in-drt--sarfaesi",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-individual-contributor--open-mkt": {
+      "url": "https://www.finploy.com/jobs-in-individual-contributor--open-mkt",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-operations-banking": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-operations-banking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-web-aggregator": {
+      "url": "https://www.finploy.com/jobs-in-web-aggregator",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-pkf-finance": {
+      "url": "https://www.finploy.com/jobs-in-pkf-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-investment-advisory": {
+      "url": "https://www.finploy.com/jobs-in-investment-advisory",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-retail-banking": {
+      "url": "https://www.finploy.com/jobs-in-retail-banking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-dept-sales--others": {
+      "url": "https://www.finploy.com/jobs-in-dept-sales--others",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-email--social-support": {
+      "url": "https://www.finploy.com/jobs-in-email--social-support",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-area-business-manager": {
+      "url": "https://www.finploy.com/jobs-in-area-business-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-claims-adjudication": {
+      "url": "https://www.finploy.com/jobs-in-claims-adjudication",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-wealth-mgt-products": {
+      "url": "https://www.finploy.com/jobs-in-all-wealth-mgt-products",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-interest-rate-hedging-solutions": {
+      "url": "https://www.finploy.com/jobs-in-interest-rate-hedging-solutions",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-wealth-manger": {
+      "url": "https://www.finploy.com/jobs-in-wealth-manger",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hni-advisory--private-banking-only": {
+      "url": "https://www.finploy.com/jobs-in-hni-advisory--private-banking-only",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-structured-finance-corporate": {
+      "url": "https://www.finploy.com/jobs-in-structured-finance-corporate",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-nre--nro-deposit-specialist": {
+      "url": "https://www.finploy.com/jobs-in-nre--nro-deposit-specialist",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-learning--development": {
+      "url": "https://www.finploy.com/jobs-in-others-in-learning--development",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-credit-rating": {
+      "url": "https://www.finploy.com/jobs-in-credit-rating",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-neo-banking": {
+      "url": "https://www.finploy.com/jobs-in-neo-banking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-motor-insurance": {
+      "url": "https://www.finploy.com/jobs-in-motor-insurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-prop": {
+      "url": "https://www.finploy.com/jobs-in-prop",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-commodity-broking": {
+      "url": "https://www.finploy.com/jobs-in-others-in-commodity-broking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-lok-adalat": {
+      "url": "https://www.finploy.com/jobs-in-lok-adalat",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-digital-sales": {
+      "url": "https://www.finploy.com/jobs-in-digital-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-payments--neftrtgs": {
+      "url": "https://www.finploy.com/jobs-in-payments--neftrtgs",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-term-plans": {
+      "url": "https://www.finploy.com/jobs-in-term-plans",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-whistle-blower": {
+      "url": "https://www.finploy.com/jobs-in-whistle-blower",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-mis-dept-for-loans": {
+      "url": "https://www.finploy.com/jobs-in-mis-dept-for-loans",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-loan-against-property-lap-only": {
+      "url": "https://www.finploy.com/jobs-in-loan-against-property-lap-only",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-insurance": {
+      "url": "https://www.finploy.com/jobs-in-insurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-ahmedabad": {
+      "url": "https://www.finploy.com/jobs-in-ahmedabad",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-supply-chain-finance--corporate": {
+      "url": "https://www.finploy.com/jobs-in-supply-chain-finance--corporate",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-area-sales-manager": {
+      "url": "https://www.finploy.com/jobs-in-area-sales-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-branch-operation-head": {
+      "url": "https://www.finploy.com/jobs-in-branch-operation-head",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-almora": {
+      "url": "https://www.finploy.com/jobs-in-almora",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-lc--bg-sales-rm": {
+      "url": "https://www.finploy.com/jobs-in-lc--bg-sales-rm",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-securitised-debt": {
+      "url": "https://www.finploy.com/jobs-in-securitised-debt",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-branch-banking": {
+      "url": "https://www.finploy.com/jobs-in-branch-banking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-exchanges-market-infra": {
+      "url": "https://www.finploy.com/jobs-in-exchanges-market-infra",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-operations-central": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-operations-central",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-market-operations-nse--bse--mcx-cdsl": {
+      "url": "https://www.finploy.com/jobs-in-market-operations-nse--bse--mcx-cdsl",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-executive-assistant": {
+      "url": "https://www.finploy.com/jobs-in-executive-assistant",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-kissht-finance": {
+      "url": "https://www.finploy.com/jobs-in-kissht-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-quant--algo": {
+      "url": "https://www.finploy.com/jobs-in-quant--algo",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-affordable-lap-only": {
+      "url": "https://www.finploy.com/jobs-in-affordable-lap-only",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-cyber-fraud": {
+      "url": "https://www.finploy.com/jobs-in-cyber-fraud",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-channel-development": {
+      "url": "https://www.finploy.com/jobs-in-channel-development",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-bajaj-finserv": {
+      "url": "https://www.finploy.com/jobs-in-bajaj-finserv",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-collections--recovery": {
+      "url": "https://www.finploy.com/jobs-in-collections--recovery",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-marketing": {
+      "url": "https://www.finploy.com/jobs-in-marketing",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-kota": {
+      "url": "https://www.finploy.com/jobs-in-kota",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-trading": {
+      "url": "https://www.finploy.com/jobs-in-trading",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-cross-border": {
+      "url": "https://www.finploy.com/jobs-in-cross-border",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-patna": {
+      "url": "https://www.finploy.com/jobs-in-patna",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-crypto--digital-assets": {
+      "url": "https://www.finploy.com/jobs-in-others-in-crypto--digital-assets",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-commodity-broking": {
+      "url": "https://www.finploy.com/jobs-in-commodity-broking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-gold-loan": {
+      "url": "https://www.finploy.com/jobs-in-gold-loan",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-agri": {
+      "url": "https://www.finploy.com/jobs-in-agri",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-property-insurance": {
+      "url": "https://www.finploy.com/jobs-in-property-insurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-overseas": {
+      "url": "https://www.finploy.com/jobs-in-overseas",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-cat-i-vc-cat-ii-pe-cat-iii": {
+      "url": "https://www.finploy.com/jobs-in-cat-i-vc-cat-ii-pe-cat-iii",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-premier--hni-casa-rm": {
+      "url": "https://www.finploy.com/jobs-in-premier--hni-casa-rm",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-doorstep-model": {
+      "url": "https://www.finploy.com/jobs-in-doorstep-model",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-legal-recovery": {
+      "url": "https://www.finploy.com/jobs-in-legal-recovery",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-jodhpur": {
+      "url": "https://www.finploy.com/jobs-in-jodhpur",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-coimbatore": {
+      "url": "https://www.finploy.com/jobs-in-coimbatore",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-securitisation": {
+      "url": "https://www.finploy.com/jobs-in-securitisation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-soft-collections": {
+      "url": "https://www.finploy.com/jobs-in-soft-collections",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-rajkot": {
+      "url": "https://www.finploy.com/jobs-in-rajkot",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-od-cc-limit-only--secured": {
+      "url": "https://www.finploy.com/jobs-in-od-cc-limit-only--secured",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-performance--rewards": {
+      "url": "https://www.finploy.com/jobs-in-performance--rewards",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-syndicated-loans-mezzanine-finance": {
+      "url": "https://www.finploy.com/jobs-in-syndicated-loans-mezzanine-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-coverage--origination": {
+      "url": "https://www.finploy.com/jobs-in-others-in-coverage--origination",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-skip-tracing": {
+      "url": "https://www.finploy.com/jobs-in-skip-tracing",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-area-manager": {
+      "url": "https://www.finploy.com/jobs-in-area-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-ml-officer": {
+      "url": "https://www.finploy.com/jobs-in-ml-officer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-construction-finance": {
+      "url": "https://www.finploy.com/jobs-in-construction-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-aml--cft": {
+      "url": "https://www.finploy.com/jobs-in-aml--cft",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-commercial--specialty": {
+      "url": "https://www.finploy.com/jobs-in-others-in-commercial--specialty",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-insurance-life": {
+      "url": "https://www.finploy.com/jobs-in-insurance-life",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-digitalonly-bank": {
+      "url": "https://www.finploy.com/jobs-in-digitalonly-bank",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-centre-manager": {
+      "url": "https://www.finploy.com/jobs-in-centre-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-field-collections": {
+      "url": "https://www.finploy.com/jobs-in-field-collections",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-payroll-officer": {
+      "url": "https://www.finploy.com/jobs-in-payroll-officer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-meerut": {
+      "url": "https://www.finploy.com/jobs-in-meerut",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-discretionary-nondiscretionary": {
+      "url": "https://www.finploy.com/jobs-in-discretionary-nondiscretionary",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-ghaziabad": {
+      "url": "https://www.finploy.com/jobs-in-ghaziabad",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-trade-finance": {
+      "url": "https://www.finploy.com/jobs-in-trade-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-kanpur": {
+      "url": "https://www.finploy.com/jobs-in-kanpur",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-disbursal": {
+      "url": "https://www.finploy.com/jobs-in-disbursal",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-both-affordable-and-prime-hl": {
+      "url": "https://www.finploy.com/jobs-in-both-affordable-and-prime-hl",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-policy--analytics": {
+      "url": "https://www.finploy.com/jobs-in-others-in-policy--analytics",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-products-for-hni-clients": {
+      "url": "https://www.finploy.com/jobs-in-all-products-for-hni-clients",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-personal-loan": {
+      "url": "https://www.finploy.com/jobs-in-personal-loan",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-home-loan-hl-only": {
+      "url": "https://www.finploy.com/jobs-in-home-loan-hl-only",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-branch-sales-executive": {
+      "url": "https://www.finploy.com/jobs-in-branch-sales-executive",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-growth-capital-buyout": {
+      "url": "https://www.finploy.com/jobs-in-growth-capital-buyout",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sales-executive": {
+      "url": "https://www.finploy.com/jobs-in-sales-executive",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-nostro--vostro-reco": {
+      "url": "https://www.finploy.com/jobs-in-nostro--vostro-reco",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in--relationship-manager": {
+      "url": "https://www.finploy.com/jobs-in--relationship-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-raipur": {
+      "url": "https://www.finploy.com/jobs-in-raipur",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-operations-loans": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-operations-loans",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-credit-policy": {
+      "url": "https://www.finploy.com/jobs-in-credit-policy",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-training-supervisor": {
+      "url": "https://www.finploy.com/jobs-in-training-supervisor",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-online-lead-manager": {
+      "url": "https://www.finploy.com/jobs-in-online-lead-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-ajmer": {
+      "url": "https://www.finploy.com/jobs-in-ajmer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-shriram-life-insurance": {
+      "url": "https://www.finploy.com/jobs-in-shriram-life-insurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-esg-reporting": {
+      "url": "https://www.finploy.com/jobs-in-esg-reporting",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-types-of-bl--unsecured": {
+      "url": "https://www.finploy.com/jobs-in-all-types-of-bl--unsecured",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hosttohost-integration-erp-banking-api": {
+      "url": "https://www.finploy.com/jobs-in-hosttohost-integration-erp-banking-api",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others--open-mkt-sales": {
+      "url": "https://www.finploy.com/jobs-in-others--open-mkt-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-loan-ops": {
+      "url": "https://www.finploy.com/jobs-in-others-in-loan-ops",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-tata-capital-housing-finance": {
+      "url": "https://www.finploy.com/jobs-in-tata-capital-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-talent-acquisition": {
+      "url": "https://www.finploy.com/jobs-in-others-in-talent-acquisition",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-money-market": {
+      "url": "https://www.finploy.com/jobs-in-money-market",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-finance-accountstaxation": {
+      "url": "https://www.finploy.com/jobs-in-finance-accountstaxation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-fraud-control": {
+      "url": "https://www.finploy.com/jobs-in-fraud-control",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-ranchi": {
+      "url": "https://www.finploy.com/jobs-in-ranchi",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-ludhiana": {
+      "url": "https://www.finploy.com/jobs-in-ludhiana",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-performance--rewards": {
+      "url": "https://www.finploy.com/jobs-in-others-in-performance--rewards",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-seed-series-abc": {
+      "url": "https://www.finploy.com/jobs-in-seed-series-abc",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-tele-sales-executive": {
+      "url": "https://www.finploy.com/jobs-in-tele-sales-executive",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-rbh": {
+      "url": "https://www.finploy.com/jobs-in-rbh",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-infrastructure": {
+      "url": "https://www.finploy.com/jobs-in-infrastructure",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-fso": {
+      "url": "https://www.finploy.com/jobs-in-fso",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-account-opening": {
+      "url": "https://www.finploy.com/jobs-in-account-opening",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sip-acquisition-rm": {
+      "url": "https://www.finploy.com/jobs-in-sip-acquisition-rm",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-aurangabad": {
+      "url": "https://www.finploy.com/jobs-in-aurangabad",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-cybersecurity": {
+      "url": "https://www.finploy.com/jobs-in-cybersecurity",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-salary-account-acquisition": {
+      "url": "https://www.finploy.com/jobs-in-salary-account-acquisition",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-card-settlement": {
+      "url": "https://www.finploy.com/jobs-in-card-settlement",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-leadership": {
+      "url": "https://www.finploy.com/jobs-in-leadership",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-branch-sales-manager": {
+      "url": "https://www.finploy.com/jobs-in-branch-sales-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-htm--afs": {
+      "url": "https://www.finploy.com/jobs-in-htm--afs",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-relationship-officer-": {
+      "url": "https://www.finploy.com/jobs-in-relationship-officer-",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-review--monitoring": {
+      "url": "https://www.finploy.com/jobs-in-review--monitoring",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hrms": {
+      "url": "https://www.finploy.com/jobs-in-hrms",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-core-banking--cbs": {
+      "url": "https://www.finploy.com/jobs-in-others-in-core-banking--cbs",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-aditya-birla-money": {
+      "url": "https://www.finploy.com/jobs-in-aditya-birla-money",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-trading--securities": {
+      "url": "https://www.finploy.com/jobs-in-trading--securities",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-research": {
+      "url": "https://www.finploy.com/jobs-in-research",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-equity-dealer": {
+      "url": "https://www.finploy.com/jobs-in-equity-dealer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-cybersecurity": {
+      "url": "https://www.finploy.com/jobs-in-others-in-cybersecurity",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-other-dept-in-operations-central": {
+      "url": "https://www.finploy.com/jobs-in-other-dept-in-operations-central",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-early-warning": {
+      "url": "https://www.finploy.com/jobs-in-early-warning",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-other-dept-in-sales--corp-bkg": {
+      "url": "https://www.finploy.com/jobs-in-other-dept-in-sales--corp-bkg",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-contract-vetting": {
+      "url": "https://www.finploy.com/jobs-in-contract-vetting",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-equity-oriented-mf-advisor": {
+      "url": "https://www.finploy.com/jobs-in-equity-oriented-mf-advisor",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-cms-payment-gateway-escrow-services": {
+      "url": "https://www.finploy.com/jobs-in-cms-payment-gateway-escrow-services",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-colending--partnership-desk": {
+      "url": "https://www.finploy.com/jobs-in-colending--partnership-desk",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-technology--digital": {
+      "url": "https://www.finploy.com/jobs-in-technology--digital",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-legal-non-litigation": {
+      "url": "https://www.finploy.com/jobs-in-legal-non-litigation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-deposits": {
+      "url": "https://www.finploy.com/jobs-in-deposits",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-senior-key-relationship-officer": {
+      "url": "https://www.finploy.com/jobs-in-senior-key-relationship-officer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-rm": {
+      "url": "https://www.finploy.com/jobs-in-rm",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-area-head": {
+      "url": "https://www.finploy.com/jobs-in-area-head",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-strategy--transformation": {
+      "url": "https://www.finploy.com/jobs-in-strategy--transformation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sanction-processing": {
+      "url": "https://www.finploy.com/jobs-in-sanction-processing",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sales-officer": {
+      "url": "https://www.finploy.com/jobs-in-sales-officer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-civil--criminal": {
+      "url": "https://www.finploy.com/jobs-in-civil--criminal",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-gwalior": {
+      "url": "https://www.finploy.com/jobs-in-gwalior",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-institutional": {
+      "url": "https://www.finploy.com/jobs-in-institutional",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-retail": {
+      "url": "https://www.finploy.com/jobs-in-retail",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-agra": {
+      "url": "https://www.finploy.com/jobs-in-agra",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-digital-platforms": {
+      "url": "https://www.finploy.com/jobs-in-digital-platforms",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-education-loan": {
+      "url": "https://www.finploy.com/jobs-in-education-loan",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sarfaesi": {
+      "url": "https://www.finploy.com/jobs-in-sarfaesi",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-customer-service": {
+      "url": "https://www.finploy.com/jobs-in-customer-service",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sell-side": {
+      "url": "https://www.finploy.com/jobs-in-sell-side",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-marketing-executive": {
+      "url": "https://www.finploy.com/jobs-in-marketing-executive",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-working-capital--od-only--unsecured": {
+      "url": "https://www.finploy.com/jobs-in-working-capital--od-only--unsecured",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-state-head": {
+      "url": "https://www.finploy.com/jobs-in-state-head",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-consumer-durable-loan": {
+      "url": "https://www.finploy.com/jobs-in-consumer-durable-loan",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-lc--bg": {
+      "url": "https://www.finploy.com/jobs-in-lc--bg",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-mutual-funds": {
+      "url": "https://www.finploy.com/jobs-in-others-in-mutual-funds",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-compensation-benchmarking": {
+      "url": "https://www.finploy.com/jobs-in-compensation-benchmarking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-other-dept-in-credit": {
+      "url": "https://www.finploy.com/jobs-in-other-dept-in-credit",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-fixed-income-dealing": {
+      "url": "https://www.finploy.com/jobs-in-others-in-fixed-income-dealing",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-branch-credit-manager": {
+      "url": "https://www.finploy.com/jobs-in-branch-credit-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-travel-insurance": {
+      "url": "https://www.finploy.com/jobs-in-travel-insurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sales-field-executive": {
+      "url": "https://www.finploy.com/jobs-in-sales-field-executive",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-branch-operations": {
+      "url": "https://www.finploy.com/jobs-in-others-in-branch-operations",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-upi-app-ux-api-banking": {
+      "url": "https://www.finploy.com/jobs-in-upi-app-ux-api-banking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-godrej-capital": {
+      "url": "https://www.finploy.com/jobs-in-godrej-capital",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-crypto--digital-assets": {
+      "url": "https://www.finploy.com/jobs-in-crypto--digital-assets",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-casa": {
+      "url": "https://www.finploy.com/jobs-in-others-in-casa",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-visakhapatnam": {
+      "url": "https://www.finploy.com/jobs-in-visakhapatnam",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-microfinance": {
+      "url": "https://www.finploy.com/jobs-in-microfinance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-fx--derivatives-sales": {
+      "url": "https://www.finploy.com/jobs-in-fx--derivatives-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-export-import-exim-advisory": {
+      "url": "https://www.finploy.com/jobs-in-export-import-exim-advisory",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-field-loan-officer": {
+      "url": "https://www.finploy.com/jobs-in-field-loan-officer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-legal-opinion": {
+      "url": "https://www.finploy.com/jobs-in-legal-opinion",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-affordable-hl-only": {
+      "url": "https://www.finploy.com/jobs-in-affordable-hl-only",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-risk-models": {
+      "url": "https://www.finploy.com/jobs-in-risk-models",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-deposits": {
+      "url": "https://www.finploy.com/jobs-in-others-in-deposits",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-credit-department": {
+      "url": "https://www.finploy.com/jobs-in-credit-department",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-corporate-advisory": {
+      "url": "https://www.finploy.com/jobs-in-corporate-advisory",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sales-manager": {
+      "url": "https://www.finploy.com/jobs-in-sales-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-training-manager": {
+      "url": "https://www.finploy.com/jobs-in-training-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sub-dept-others": {
+      "url": "https://www.finploy.com/jobs-in-sub-dept-others",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-legal-non-litigation": {
+      "url": "https://www.finploy.com/jobs-in-others-in-legal-non-litigation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-forex-remittance": {
+      "url": "https://www.finploy.com/jobs-in-forex-remittance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-corporate-bonds": {
+      "url": "https://www.finploy.com/jobs-in-corporate-bonds",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-area-technical-manager": {
+      "url": "https://www.finploy.com/jobs-in-area-technical-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-loan-ops": {
+      "url": "https://www.finploy.com/jobs-in-loan-ops",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-msme--sme": {
+      "url": "https://www.finploy.com/jobs-in-msme--sme",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-alirajpur": {
+      "url": "https://www.finploy.com/jobs-in-alirajpur",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-buy-side": {
+      "url": "https://www.finploy.com/jobs-in-buy-side",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-investment-banking-pe-vc": {
+      "url": "https://www.finploy.com/jobs-in-investment-banking-pe-vc",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-kyc--aml": {
+      "url": "https://www.finploy.com/jobs-in-kyc--aml",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-digital-distribution": {
+      "url": "https://www.finploy.com/jobs-in-digital-distribution",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-rcu-officer": {
+      "url": "https://www.finploy.com/jobs-in-rcu-officer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-svatantra-housing-finance": {
+      "url": "https://www.finploy.com/jobs-in-svatantra-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-equity-research": {
+      "url": "https://www.finploy.com/jobs-in-equity-research",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-branch-manager--open-mkt": {
+      "url": "https://www.finploy.com/jobs-in-branch-manager--open-mkt",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-branch-manager": {
+      "url": "https://www.finploy.com/jobs-in-branch-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-loan-against-securities": {
+      "url": "https://www.finploy.com/jobs-in-loan-against-securities",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-team-leader-dsa-and-dst": {
+      "url": "https://www.finploy.com/jobs-in-team-leader-dsa-and-dst",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-lucknow": {
+      "url": "https://www.finploy.com/jobs-in-lucknow",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-investments-only": {
+      "url": "https://www.finploy.com/jobs-in-investments-only",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-digital-corporate-banking": {
+      "url": "https://www.finploy.com/jobs-in-digital-corporate-banking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-firozabad": {
+      "url": "https://www.finploy.com/jobs-in-firozabad",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-business-manager": {
+      "url": "https://www.finploy.com/jobs-in-business-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-brokerage-securities": {
+      "url": "https://www.finploy.com/jobs-in-brokerage-securities",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-investment-banking": {
+      "url": "https://www.finploy.com/jobs-in-investment-banking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-soc": {
+      "url": "https://www.finploy.com/jobs-in-soc",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-fig": {
+      "url": "https://www.finploy.com/jobs-in-fig",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-alm--liquidity": {
+      "url": "https://www.finploy.com/jobs-in-others-in-alm--liquidity",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-alappuzha": {
+      "url": "https://www.finploy.com/jobs-in-alappuzha",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-lending": {
+      "url": "https://www.finploy.com/jobs-in-lending",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-traditional-plans": {
+      "url": "https://www.finploy.com/jobs-in-traditional-plans",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-treasury-services": {
+      "url": "https://www.finploy.com/jobs-in-treasury-services",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-tcs-bancs": {
+      "url": "https://www.finploy.com/jobs-in-tcs-bancs",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-bajaj-capital": {
+      "url": "https://www.finploy.com/jobs-in-bajaj-capital",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-wealthtech": {
+      "url": "https://www.finploy.com/jobs-in-wealthtech",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-kra--kpi-mgmt": {
+      "url": "https://www.finploy.com/jobs-in-kra--kpi-mgmt",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-equity-capital-markets": {
+      "url": "https://www.finploy.com/jobs-in-equity-capital-markets",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-centrum-housing-finance-ltd": {
+      "url": "https://www.finploy.com/jobs-in-centrum-housing-finance-ltd",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-bajaj-capital-insurance-broking-limited": {
+      "url": "https://www.finploy.com/jobs-in-bajaj-capital-insurance-broking-limited",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-business-loan": {
+      "url": "https://www.finploy.com/jobs-in-business-loan",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-private-credit-structured-credit": {
+      "url": "https://www.finploy.com/jobs-in-private-credit-structured-credit",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-muthoot-finance": {
+      "url": "https://www.finploy.com/jobs-in-muthoot-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-trading-commod-crypto-others": {
+      "url": "https://www.finploy.com/jobs-in-trading-commod-crypto-others",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-enterprise-risk": {
+      "url": "https://www.finploy.com/jobs-in-enterprise-risk",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-other-dept-in-invt-trading": {
+      "url": "https://www.finploy.com/jobs-in-other-dept-in-invt-trading",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-asset-management-amc": {
+      "url": "https://www.finploy.com/jobs-in-asset-management-amc",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-machinery-loan-only--secured": {
+      "url": "https://www.finploy.com/jobs-in-machinery-loan-only--secured",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-recurring-deposit-rd-sales": {
+      "url": "https://www.finploy.com/jobs-in-recurring-deposit-rd-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-fixed-deposit-fd-sales": {
+      "url": "https://www.finploy.com/jobs-in-fixed-deposit-fd-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-svasti-finance": {
+      "url": "https://www.finploy.com/jobs-in-svasti-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-claims--underwriting": {
+      "url": "https://www.finploy.com/jobs-in-others-in-claims--underwriting",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others--emerging": {
+      "url": "https://www.finploy.com/jobs-in-others--emerging",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-team-manager": {
+      "url": "https://www.finploy.com/jobs-in-team-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-liability": {
+      "url": "https://www.finploy.com/jobs-in-liability",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-enterprise-risk": {
+      "url": "https://www.finploy.com/jobs-in-others-in-enterprise-risk",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-digital-zero-balance-casa": {
+      "url": "https://www.finploy.com/jobs-in-digital-zero-balance-casa",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-bancassurance": {
+      "url": "https://www.finploy.com/jobs-in-bancassurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-claims--survey": {
+      "url": "https://www.finploy.com/jobs-in-others-in-claims--survey",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-wallets--upi--ppi": {
+      "url": "https://www.finploy.com/jobs-in-wallets--upi--ppi",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-options--swaps": {
+      "url": "https://www.finploy.com/jobs-in-options--swaps",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-area-business-head": {
+      "url": "https://www.finploy.com/jobs-in-area-business-head",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-esg--sustainable-finance": {
+      "url": "https://www.finploy.com/jobs-in-esg--sustainable-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-shubham-housing-finance": {
+      "url": "https://www.finploy.com/jobs-in-shubham-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-bhopal": {
+      "url": "https://www.finploy.com/jobs-in-bhopal",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-telecaller": {
+      "url": "https://www.finploy.com/jobs-in-telecaller",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-tiruchirappalli": {
+      "url": "https://www.finploy.com/jobs-in-tiruchirappalli",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-post-disbursal-servicing": {
+      "url": "https://www.finploy.com/jobs-in-post-disbursal-servicing",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-compliance": {
+      "url": "https://www.finploy.com/jobs-in-others-in-compliance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-individual-contributor--dsa": {
+      "url": "https://www.finploy.com/jobs-in-individual-contributor--dsa",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-assistant-legal-manager": {
+      "url": "https://www.finploy.com/jobs-in-assistant-legal-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-rbi--irdai--sebi": {
+      "url": "https://www.finploy.com/jobs-in-rbi--irdai--sebi",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-motilal-oswal-housing-finance": {
+      "url": "https://www.finploy.com/jobs-in-motilal-oswal-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-pune": {
+      "url": "https://www.finploy.com/jobs-in-pune",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-front-line-sales-": {
+      "url": "https://www.finploy.com/jobs-in-front-line-sales-",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-contact-centre": {
+      "url": "https://www.finploy.com/jobs-in-contact-centre",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-health-claims": {
+      "url": "https://www.finploy.com/jobs-in-health-claims",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-other-dept-in-hr-training": {
+      "url": "https://www.finploy.com/jobs-in-other-dept-in-hr-training",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-exchange-ops": {
+      "url": "https://www.finploy.com/jobs-in-exchange-ops",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-private-equity-vc-aif": {
+      "url": "https://www.finploy.com/jobs-in-private-equity-vc-aif",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-limit-setup": {
+      "url": "https://www.finploy.com/jobs-in-limit-setup",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-credit-risk": {
+      "url": "https://www.finploy.com/jobs-in-credit-risk",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-alipurduar": {
+      "url": "https://www.finploy.com/jobs-in-alipurduar",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-soft-skills": {
+      "url": "https://www.finploy.com/jobs-in-soft-skills",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-treasury-forex": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-treasury-forex",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hdb-financial-services-pvt-ltd": {
+      "url": "https://www.finploy.com/jobs-in-hdb-financial-services-pvt-ltd",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-regulatory-certs-nism-iibf": {
+      "url": "https://www.finploy.com/jobs-in-regulatory-certs-nism-iibf",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-digital-bank": {
+      "url": "https://www.finploy.com/jobs-in-digital-bank",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-guntur": {
+      "url": "https://www.finploy.com/jobs-in-guntur",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-robo-advisory": {
+      "url": "https://www.finploy.com/jobs-in-robo-advisory",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-front-line-sales-officer": {
+      "url": "https://www.finploy.com/jobs-in-front-line-sales-officer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-both-home-loan-and-lap": {
+      "url": "https://www.finploy.com/jobs-in-both-home-loan-and-lap",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-kolkata": {
+      "url": "https://www.finploy.com/jobs-in-kolkata",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sales-manager-": {
+      "url": "https://www.finploy.com/jobs-in-sales-manager-",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-swift": {
+      "url": "https://www.finploy.com/jobs-in-swift",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-manager--dsa": {
+      "url": "https://www.finploy.com/jobs-in-manager--dsa",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-commercial-vehicle-loan": {
+      "url": "https://www.finploy.com/jobs-in-commercial-vehicle-loan",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-individual-contributor--dsa-and-dst": {
+      "url": "https://www.finploy.com/jobs-in-individual-contributor--dsa-and-dst",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-portfolio--pms": {
+      "url": "https://www.finploy.com/jobs-in-portfolio--pms",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-area-sales-head": {
+      "url": "https://www.finploy.com/jobs-in-area-sales-head",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-aligarh": {
+      "url": "https://www.finploy.com/jobs-in-aligarh",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hr-recruiter": {
+      "url": "https://www.finploy.com/jobs-in-hr-recruiter",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-bancassurance": {
+      "url": "https://www.finploy.com/jobs-in-others-in-bancassurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-types-of-bl--secured": {
+      "url": "https://www.finploy.com/jobs-in-all-types-of-bl--secured",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-secured-hllapvehicle": {
+      "url": "https://www.finploy.com/jobs-in-secured-hllapvehicle",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-cash--clearing": {
+      "url": "https://www.finploy.com/jobs-in-cash--clearing",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-project-finance-capex-loans": {
+      "url": "https://www.finploy.com/jobs-in-project-finance-capex-loans",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-collection-field-executive": {
+      "url": "https://www.finploy.com/jobs-in-collection-field-executive",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-other-dept-in-sales--liab": {
+      "url": "https://www.finploy.com/jobs-in-other-dept-in-sales--liab",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-other-dept-in-tech-and-digital": {
+      "url": "https://www.finploy.com/jobs-in-other-dept-in-tech-and-digital",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-research--strategy": {
+      "url": "https://www.finploy.com/jobs-in-research--strategy",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-finance-executive": {
+      "url": "https://www.finploy.com/jobs-in-finance-executive",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-disbursement--documentation": {
+      "url": "https://www.finploy.com/jobs-in-others-in-disbursement--documentation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-apprentice-sales": {
+      "url": "https://www.finploy.com/jobs-in-apprentice-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-consumer--tech": {
+      "url": "https://www.finploy.com/jobs-in-consumer--tech",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-area-credit-head": {
+      "url": "https://www.finploy.com/jobs-in-area-credit-head",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-realization-officer": {
+      "url": "https://www.finploy.com/jobs-in-realization-officer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-mutual-funds": {
+      "url": "https://www.finploy.com/jobs-in-mutual-funds",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-equity--derivatives-dealing": {
+      "url": "https://www.finploy.com/jobs-in-equity--derivatives-dealing",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hni--private--wealth-management": {
+      "url": "https://www.finploy.com/jobs-in-hni--private--wealth-management",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hyderabad": {
+      "url": "https://www.finploy.com/jobs-in-hyderabad",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-tata-capital": {
+      "url": "https://www.finploy.com/jobs-in-tata-capital",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-coverage--origination": {
+      "url": "https://www.finploy.com/jobs-in-coverage--origination",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hr-executive": {
+      "url": "https://www.finploy.com/jobs-in-hr-executive",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-relationship-manager": {
+      "url": "https://www.finploy.com/jobs-in-relationship-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-other-dept-in-operations-loans": {
+      "url": "https://www.finploy.com/jobs-in-other-dept-in-operations-loans",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-loans--all-types": {
+      "url": "https://www.finploy.com/jobs-in-loans--all-types",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-rro": {
+      "url": "https://www.finploy.com/jobs-in-rro",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-shiksha-finance": {
+      "url": "https://www.finploy.com/jobs-in-shiksha-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hinduja-housing-finance": {
+      "url": "https://www.finploy.com/jobs-in-hinduja-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-ncd": {
+      "url": "https://www.finploy.com/jobs-in-ncd",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-rating-agencies": {
+      "url": "https://www.finploy.com/jobs-in-rating-agencies",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-luxury-hl-only": {
+      "url": "https://www.finploy.com/jobs-in-luxury-hl-only",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-current-account-savings-account-nri-accounts": {
+      "url": "https://www.finploy.com/jobs-in-current-account-savings-account-nri-accounts",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-qip": {
+      "url": "https://www.finploy.com/jobs-in-qip",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-gap-management": {
+      "url": "https://www.finploy.com/jobs-in-gap-management",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-derivatives-trading": {
+      "url": "https://www.finploy.com/jobs-in-derivatives-trading",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-product-specialisation-others": {
+      "url": "https://www.finploy.com/jobs-in-product-specialisation-others",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-team-leader": {
+      "url": "https://www.finploy.com/jobs-in-team-leader",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-executive-digital-sales": {
+      "url": "https://www.finploy.com/jobs-in-executive-digital-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-reconciliation--settlement": {
+      "url": "https://www.finploy.com/jobs-in-others-in-reconciliation--settlement",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-non-medical-uw": {
+      "url": "https://www.finploy.com/jobs-in-non-medical-uw",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-group-lending---jlg-loans---individual-iml--digital": {
+      "url": "https://www.finploy.com/jobs-in-group-lending---jlg-loans---individual-iml--digital",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-strategy--transformation": {
+      "url": "https://www.finploy.com/jobs-in-others-in-strategy--transformation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-retail-cobranded-business": {
+      "url": "https://www.finploy.com/jobs-in-retail-cobranded-business",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-indore": {
+      "url": "https://www.finploy.com/jobs-in-indore",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-forex--derivatives": {
+      "url": "https://www.finploy.com/jobs-in-forex--derivatives",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-core-banking--cbs": {
+      "url": "https://www.finploy.com/jobs-in-core-banking--cbs",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-tata-capital-housing-finance-limited": {
+      "url": "https://www.finploy.com/jobs-in-tata-capital-housing-finance-limited",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-customer-service": {
+      "url": "https://www.finploy.com/jobs-in-others-in-customer-service",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-location-manager": {
+      "url": "https://www.finploy.com/jobs-in-location-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-branch-credit-head": {
+      "url": "https://www.finploy.com/jobs-in-branch-credit-head",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-litigation-handling": {
+      "url": "https://www.finploy.com/jobs-in-litigation-handling",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-types-of-vehicle-loan-": {
+      "url": "https://www.finploy.com/jobs-in-all-types-of-vehicle-loan-",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-dhanbad": {
+      "url": "https://www.finploy.com/jobs-in-dhanbad",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-madurai": {
+      "url": "https://www.finploy.com/jobs-in-madurai",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-ziel-financial-technologies-pvt-ltd": {
+      "url": "https://www.finploy.com/jobs-in-ziel-financial-technologies-pvt-ltd",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-senior-relationship-manager": {
+      "url": "https://www.finploy.com/jobs-in-senior-relationship-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-electronica-finance": {
+      "url": "https://www.finploy.com/jobs-in-electronica-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sub-product-others": {
+      "url": "https://www.finploy.com/jobs-in-sub-product-others",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-types-of-casa-deposit-products": {
+      "url": "https://www.finploy.com/jobs-in-all-types-of-casa-deposit-products",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-prime-hl-and-lap-only": {
+      "url": "https://www.finploy.com/jobs-in-prime-hl-and-lap-only",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-front-line-sales": {
+      "url": "https://www.finploy.com/jobs-in-front-line-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-internal-audit": {
+      "url": "https://www.finploy.com/jobs-in-internal-audit",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-direct--online": {
+      "url": "https://www.finploy.com/jobs-in-others-in-direct--online",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-forensics": {
+      "url": "https://www.finploy.com/jobs-in-forensics",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-tech-and-digital": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-tech-and-digital",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-equities-trading": {
+      "url": "https://www.finploy.com/jobs-in-equities-trading",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-types-of-retail-products": {
+      "url": "https://www.finploy.com/jobs-in-all-types-of-retail-products",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-call-center": {
+      "url": "https://www.finploy.com/jobs-in-call-center",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-forex--derivatives": {
+      "url": "https://www.finploy.com/jobs-in-others-in-forex--derivatives",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-emi-financing-ecom-loan": {
+      "url": "https://www.finploy.com/jobs-in-emi-financing-ecom-loan",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-team-leader-dsa": {
+      "url": "https://www.finploy.com/jobs-in-team-leader-dsa",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-treasury--forex": {
+      "url": "https://www.finploy.com/jobs-in-treasury--forex",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-trade-finance-fx": {
+      "url": "https://www.finploy.com/jobs-in-trade-finance-fx",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-disbursement--documentation": {
+      "url": "https://www.finploy.com/jobs-in-disbursement--documentation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-agency-channel": {
+      "url": "https://www.finploy.com/jobs-in-agency-channel",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-cuttack": {
+      "url": "https://www.finploy.com/jobs-in-cuttack",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-vastu-housing-finance-corporation-ltd": {
+      "url": "https://www.finploy.com/jobs-in-vastu-housing-finance-corporation-ltd",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-custodian-banking": {
+      "url": "https://www.finploy.com/jobs-in-custodian-banking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-product-training": {
+      "url": "https://www.finploy.com/jobs-in-product-training",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-bajaj-capital-ltd": {
+      "url": "https://www.finploy.com/jobs-in-bajaj-capital-ltd",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-crm": {
+      "url": "https://www.finploy.com/jobs-in-crm",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-api-banking": {
+      "url": "https://www.finploy.com/jobs-in-api-banking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-chandigarh": {
+      "url": "https://www.finploy.com/jobs-in-chandigarh",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-equity-capital-markets": {
+      "url": "https://www.finploy.com/jobs-in-others-in-equity-capital-markets",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-custody": {
+      "url": "https://www.finploy.com/jobs-in-custody",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-fraud--investigation": {
+      "url": "https://www.finploy.com/jobs-in-fraud--investigation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-legal-compliance-risk": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-legal-compliance-risk",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-nbfc-co-origination": {
+      "url": "https://www.finploy.com/jobs-in-nbfc-co-origination",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-lateral": {
+      "url": "https://www.finploy.com/jobs-in-lateral",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-credit-administration": {
+      "url": "https://www.finploy.com/jobs-in-others-in-credit-administration",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-custody-fund-services": {
+      "url": "https://www.finploy.com/jobs-in-custody-fund-services",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-inter-bank-fx": {
+      "url": "https://www.finploy.com/jobs-in-inter-bank-fx",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-it-executive": {
+      "url": "https://www.finploy.com/jobs-in-it-executive",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-debt-syndication-ipo-advisory": {
+      "url": "https://www.finploy.com/jobs-in-debt-syndication-ipo-advisory",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-payroll": {
+      "url": "https://www.finploy.com/jobs-in-payroll",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-branch-operations": {
+      "url": "https://www.finploy.com/jobs-in-branch-operations",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-vendor-finance-dealer-finance": {
+      "url": "https://www.finploy.com/jobs-in-vendor-finance-dealer-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-corporate-cards": {
+      "url": "https://www.finploy.com/jobs-in-corporate-cards",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-policy--analytics": {
+      "url": "https://www.finploy.com/jobs-in-policy--analytics",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-fixed-recurring-tax-saver": {
+      "url": "https://www.finploy.com/jobs-in-fixed-recurring-tax-saver",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-lc-letter-of-credit-bank-guarantee-bills": {
+      "url": "https://www.finploy.com/jobs-in-lc-letter-of-credit-bank-guarantee-bills",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-working-capital-finance--corporate": {
+      "url": "https://www.finploy.com/jobs-in-working-capital-finance--corporate",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others--dsa-and-dst": {
+      "url": "https://www.finploy.com/jobs-in-others--dsa-and-dst",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-marketing-manager": {
+      "url": "https://www.finploy.com/jobs-in-marketing-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-flexcube": {
+      "url": "https://www.finploy.com/jobs-in-flexcube",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-hr-training": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-hr-training",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-market-risk": {
+      "url": "https://www.finploy.com/jobs-in-market-risk",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-salem": {
+      "url": "https://www.finploy.com/jobs-in-salem",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-types-of-wealth-mgt-services": {
+      "url": "https://www.finploy.com/jobs-in-all-types-of-wealth-mgt-services",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-transaction-banking": {
+      "url": "https://www.finploy.com/jobs-in-transaction-banking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-sales--liab": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-sales--liab",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-debt-funds": {
+      "url": "https://www.finploy.com/jobs-in-debt-funds",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-portfolio-management": {
+      "url": "https://www.finploy.com/jobs-in-portfolio-management",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-luxury-hl-and-lap": {
+      "url": "https://www.finploy.com/jobs-in-luxury-hl-and-lap",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-corporate-structured-sme-ratings": {
+      "url": "https://www.finploy.com/jobs-in-corporate-structured-sme-ratings",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-nashik": {
+      "url": "https://www.finploy.com/jobs-in-nashik",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-liquidity-buffers": {
+      "url": "https://www.finploy.com/jobs-in-liquidity-buffers",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-credit-administration": {
+      "url": "https://www.finploy.com/jobs-in-credit-administration",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-deposit-ops": {
+      "url": "https://www.finploy.com/jobs-in-deposit-ops",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-finploy-finance-employment-technologies": {
+      "url": "https://www.finploy.com/jobs-in-finploy-finance-employment-technologies",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-fintech-partnerships": {
+      "url": "https://www.finploy.com/jobs-in-others-in-fintech-partnerships",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-amritsar": {
+      "url": "https://www.finploy.com/jobs-in-amritsar",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-wealth-management": {
+      "url": "https://www.finploy.com/jobs-in-wealth-management",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-central-processing-centre-cpc": {
+      "url": "https://www.finploy.com/jobs-in-others-in-central-processing-centre-cpc",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-tyger-capital-finance-pvt-ltd": {
+      "url": "https://www.finploy.com/jobs-in-tyger-capital-finance-pvt-ltd",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-supply-chain-finance-solutions": {
+      "url": "https://www.finploy.com/jobs-in-supply-chain-finance-solutions",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-customer-care-executive": {
+      "url": "https://www.finploy.com/jobs-in-customer-care-executive",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-fintech-bank": {
+      "url": "https://www.finploy.com/jobs-in-fintech-bank",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-claims--underwriting": {
+      "url": "https://www.finploy.com/jobs-in-claims--underwriting",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-industry-specialisation": {
+      "url": "https://www.finploy.com/jobs-in-industry-specialisation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-relationship-management": {
+      "url": "https://www.finploy.com/jobs-in-relationship-management",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-clearing-settlement-surveillance": {
+      "url": "https://www.finploy.com/jobs-in-clearing-settlement-surveillance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-nri-student-business-remittance": {
+      "url": "https://www.finploy.com/jobs-in-nri-student-business-remittance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-mobile-banking-back-office": {
+      "url": "https://www.finploy.com/jobs-in-mobile-banking-back-office",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-grihum-housing-finance": {
+      "url": "https://www.finploy.com/jobs-in-grihum-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-finacle": {
+      "url": "https://www.finploy.com/jobs-in-finacle",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-team-leader-open-mkt": {
+      "url": "https://www.finploy.com/jobs-in-team-leader-open-mkt",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-loslms": {
+      "url": "https://www.finploy.com/jobs-in-loslms",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-solapur": {
+      "url": "https://www.finploy.com/jobs-in-solapur",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-bulk--volume-hiring": {
+      "url": "https://www.finploy.com/jobs-in-bulk--volume-hiring",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-portfolio--pms": {
+      "url": "https://www.finploy.com/jobs-in-others-in-portfolio--pms",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-credit-underwriting": {
+      "url": "https://www.finploy.com/jobs-in-credit-underwriting",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-ftp": {
+      "url": "https://www.finploy.com/jobs-in-ftp",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-venture-capital": {
+      "url": "https://www.finploy.com/jobs-in-venture-capital",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-unit-head": {
+      "url": "https://www.finploy.com/jobs-in-unit-head",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hdfc-bank": {
+      "url": "https://www.finploy.com/jobs-in-hdfc-bank",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-electronica-housing-finance": {
+      "url": "https://www.finploy.com/jobs-in-electronica-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-mis-for-loans": {
+      "url": "https://www.finploy.com/jobs-in-all-mis-for-loans",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-regional-sales-manager": {
+      "url": "https://www.finploy.com/jobs-in-regional-sales-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-vastu-housing-finance": {
+      "url": "https://www.finploy.com/jobs-in-vastu-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-muthoot-microfinance-limited": {
+      "url": "https://www.finploy.com/jobs-in-muthoot-microfinance-limited",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-prime-hl-only": {
+      "url": "https://www.finploy.com/jobs-in-prime-hl-only",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sme--msme-loans": {
+      "url": "https://www.finploy.com/jobs-in-sme--msme-loans",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-equity": {
+      "url": "https://www.finploy.com/jobs-in-equity",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-trade-ops": {
+      "url": "https://www.finploy.com/jobs-in-trade-ops",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-investments-book": {
+      "url": "https://www.finploy.com/jobs-in-others-in-investments-book",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hr-operations": {
+      "url": "https://www.finploy.com/jobs-in-hr-operations",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-compliance": {
+      "url": "https://www.finploy.com/jobs-in-compliance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-claims--survey": {
+      "url": "https://www.finploy.com/jobs-in-claims--survey",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-location-head": {
+      "url": "https://www.finploy.com/jobs-in-location-head",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-card-issuance": {
+      "url": "https://www.finploy.com/jobs-in-card-issuance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-research--strategy": {
+      "url": "https://www.finploy.com/jobs-in-others-in-research--strategy",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-cards": {
+      "url": "https://www.finploy.com/jobs-in-cards",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-motor-assessing": {
+      "url": "https://www.finploy.com/jobs-in-motor-assessing",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-fintech-partnerships": {
+      "url": "https://www.finploy.com/jobs-in-fintech-partnerships",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-howrah": {
+      "url": "https://www.finploy.com/jobs-in-howrah",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-marine": {
+      "url": "https://www.finploy.com/jobs-in-marine",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-bullion": {
+      "url": "https://www.finploy.com/jobs-in-bullion",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-affordable-hl-and-lap-only": {
+      "url": "https://www.finploy.com/jobs-in-affordable-hl-and-lap-only",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-legal-litigation": {
+      "url": "https://www.finploy.com/jobs-in-legal-litigation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sales--loans": {
+      "url": "https://www.finploy.com/jobs-in-sales--loans",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-saharanpur": {
+      "url": "https://www.finploy.com/jobs-in-saharanpur",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sales--general-insurance": {
+      "url": "https://www.finploy.com/jobs-in-sales--general-insurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-data-science--ai": {
+      "url": "https://www.finploy.com/jobs-in-data-science--ai",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-aditya-birla-sun-life-insurance": {
+      "url": "https://www.finploy.com/jobs-in-aditya-birla-sun-life-insurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-operational-risk": {
+      "url": "https://www.finploy.com/jobs-in-operational-risk",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-other-dept-in-operations-banking": {
+      "url": "https://www.finploy.com/jobs-in-other-dept-in-operations-banking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-learning--development": {
+      "url": "https://www.finploy.com/jobs-in-learning--development",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-adilabad": {
+      "url": "https://www.finploy.com/jobs-in-adilabad",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-business-executive": {
+      "url": "https://www.finploy.com/jobs-in-business-executive",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-risk-control-unit--rcu": {
+      "url": "https://www.finploy.com/jobs-in-risk-control-unit--rcu",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-other-dept-in-sales--life-ins": {
+      "url": "https://www.finploy.com/jobs-in-other-dept-in-sales--life-ins",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-property": {
+      "url": "https://www.finploy.com/jobs-in-property",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-investment-bank": {
+      "url": "https://www.finploy.com/jobs-in-investment-bank",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-equity--macro-research": {
+      "url": "https://www.finploy.com/jobs-in-equity--macro-research",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-operations--banking": {
+      "url": "https://www.finploy.com/jobs-in-operations--banking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-insurance-all": {
+      "url": "https://www.finploy.com/jobs-in-insurance-all",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-aif-alt-inv-fund": {
+      "url": "https://www.finploy.com/jobs-in-aif-alt-inv-fund",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-mutual-funds--brokerage": {
+      "url": "https://www.finploy.com/jobs-in-mutual-funds--brokerage",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-amravati": {
+      "url": "https://www.finploy.com/jobs-in-amravati",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-jalandhar": {
+      "url": "https://www.finploy.com/jobs-in-jalandhar",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-credit-cards": {
+      "url": "https://www.finploy.com/jobs-in-credit-cards",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-chennai": {
+      "url": "https://www.finploy.com/jobs-in-chennai",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-cholamandalam-investment-and-finance-company-ltd": {
+      "url": "https://www.finploy.com/jobs-in-cholamandalam-investment-and-finance-company-ltd",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-both-casa-and-deposits": {
+      "url": "https://www.finploy.com/jobs-in-both-casa-and-deposits",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-derivatives": {
+      "url": "https://www.finploy.com/jobs-in-derivatives",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-structured-finance": {
+      "url": "https://www.finploy.com/jobs-in-structured-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-tele-sales": {
+      "url": "https://www.finploy.com/jobs-in-tele-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-ipo": {
+      "url": "https://www.finploy.com/jobs-in-ipo",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-disbursal-management": {
+      "url": "https://www.finploy.com/jobs-in-disbursal-management",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-trade-finance--corporate": {
+      "url": "https://www.finploy.com/jobs-in-trade-finance--corporate",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-mortgagebacked-only--secured": {
+      "url": "https://www.finploy.com/jobs-in-mortgagebacked-only--secured",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-policy-distribution": {
+      "url": "https://www.finploy.com/jobs-in-policy-distribution",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-vadodara": {
+      "url": "https://www.finploy.com/jobs-in-vadodara",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-digital-neo-banking": {
+      "url": "https://www.finploy.com/jobs-in-digital-neo-banking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-vehicle-loan": {
+      "url": "https://www.finploy.com/jobs-in-vehicle-loan",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-scorecard": {
+      "url": "https://www.finploy.com/jobs-in-scorecard",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-data-science--ai": {
+      "url": "https://www.finploy.com/jobs-in-others-in-data-science--ai",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-energy": {
+      "url": "https://www.finploy.com/jobs-in-energy",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-money-market--bond-dealing-rm": {
+      "url": "https://www.finploy.com/jobs-in-money-market--bond-dealing-rm",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-types-of-gold-loan": {
+      "url": "https://www.finploy.com/jobs-in-all-types-of-gold-loan",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-dsa-sales": {
+      "url": "https://www.finploy.com/jobs-in-dsa-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-client-relationship-officer": {
+      "url": "https://www.finploy.com/jobs-in-client-relationship-officer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-both-dsa--open-mkt-sales": {
+      "url": "https://www.finploy.com/jobs-in-both-dsa--open-mkt-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-shares-mf-bonds-insurance-esop-margin-trading": {
+      "url": "https://www.finploy.com/jobs-in-shares-mf-bonds-insurance-esop-margin-trading",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-treasury-products": {
+      "url": "https://www.finploy.com/jobs-in-others-in-treasury-products",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-ahmednagar": {
+      "url": "https://www.finploy.com/jobs-in-ahmednagar",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-regulatory-reporting": {
+      "url": "https://www.finploy.com/jobs-in-regulatory-reporting",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-process-re-engineering": {
+      "url": "https://www.finploy.com/jobs-in-process-re-engineering",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-threat-monitoring": {
+      "url": "https://www.finploy.com/jobs-in-threat-monitoring",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sme-payment-solutions-sales": {
+      "url": "https://www.finploy.com/jobs-in-sme-payment-solutions-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-lap-collection-executive": {
+      "url": "https://www.finploy.com/jobs-in-lap-collection-executive",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-senior-operation-officer": {
+      "url": "https://www.finploy.com/jobs-in-senior-operation-officer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-term": {
+      "url": "https://www.finploy.com/jobs-in-term",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-g-secs": {
+      "url": "https://www.finploy.com/jobs-in-g-secs",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-health": {
+      "url": "https://www.finploy.com/jobs-in-health",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-cash-mgmt": {
+      "url": "https://www.finploy.com/jobs-in-cash-mgmt",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-aizawl": {
+      "url": "https://www.finploy.com/jobs-in-aizawl",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-personalisation": {
+      "url": "https://www.finploy.com/jobs-in-personalisation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sales-associate": {
+      "url": "https://www.finploy.com/jobs-in-sales-associate",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-collection-manager": {
+      "url": "https://www.finploy.com/jobs-in-collection-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-mis-executive": {
+      "url": "https://www.finploy.com/jobs-in-mis-executive",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-card--payment-ops": {
+      "url": "https://www.finploy.com/jobs-in-card--payment-ops",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-hdb-financial-services": {
+      "url": "https://www.finploy.com/jobs-in-hdb-financial-services",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-car---two-wheeler-loan": {
+      "url": "https://www.finploy.com/jobs-in-car---two-wheeler-loan",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-securities-custody-fund-admin": {
+      "url": "https://www.finploy.com/jobs-in-securities-custody-fund-admin",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-discretionary-vs-advisory": {
+      "url": "https://www.finploy.com/jobs-in-discretionary-vs-advisory",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-tata-capital-ltd": {
+      "url": "https://www.finploy.com/jobs-in-tata-capital-ltd",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-products-others": {
+      "url": "https://www.finploy.com/jobs-in-products-others",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-cluster-manager": {
+      "url": "https://www.finploy.com/jobs-in-cluster-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-collection-executive": {
+      "url": "https://www.finploy.com/jobs-in-collection-executive",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-muthoot-finance-ltd": {
+      "url": "https://www.finploy.com/jobs-in-muthoot-finance-ltd",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-salaried-only": {
+      "url": "https://www.finploy.com/jobs-in-salaried-only",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-technical-valuation": {
+      "url": "https://www.finploy.com/jobs-in-technical-valuation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-title-search": {
+      "url": "https://www.finploy.com/jobs-in-title-search",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-atm--pos": {
+      "url": "https://www.finploy.com/jobs-in-atm--pos",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-trade-finance": {
+      "url": "https://www.finploy.com/jobs-in-others-in-trade-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-aif": {
+      "url": "https://www.finploy.com/jobs-in-aif",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-family-office": {
+      "url": "https://www.finploy.com/jobs-in-family-office",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-model-validation": {
+      "url": "https://www.finploy.com/jobs-in-model-validation",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-embedded-finance": {
+      "url": "https://www.finploy.com/jobs-in-embedded-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-fintech-tie-ups": {
+      "url": "https://www.finploy.com/jobs-in-fintech-tie-ups",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-deputy-manager-agency-partner": {
+      "url": "https://www.finploy.com/jobs-in-deputy-manager-agency-partner",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-employee-relations": {
+      "url": "https://www.finploy.com/jobs-in-employee-relations",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-retail-gen-ins": {
+      "url": "https://www.finploy.com/jobs-in-others-in-retail-gen-ins",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-idam": {
+      "url": "https://www.finploy.com/jobs-in-idam",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-mutual-funds-bonds-pms": {
+      "url": "https://www.finploy.com/jobs-in-mutual-funds-bonds-pms",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-bareilly": {
+      "url": "https://www.finploy.com/jobs-in-bareilly",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-akola": {
+      "url": "https://www.finploy.com/jobs-in-akola",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-digital-operations": {
+      "url": "https://www.finploy.com/jobs-in-digital-operations",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-mobile--net-banking": {
+      "url": "https://www.finploy.com/jobs-in-mobile--net-banking",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-currency-trading": {
+      "url": "https://www.finploy.com/jobs-in-currency-trading",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-assistant-sales-manager-": {
+      "url": "https://www.finploy.com/jobs-in-assistant-sales-manager-",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-nellore": {
+      "url": "https://www.finploy.com/jobs-in-nellore",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-bikaner": {
+      "url": "https://www.finploy.com/jobs-in-bikaner",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-all-dept-in-broking-wealth": {
+      "url": "https://www.finploy.com/jobs-in-all-dept-in-broking-wealth",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-private-equity": {
+      "url": "https://www.finploy.com/jobs-in-private-equity",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-health-insurance": {
+      "url": "https://www.finploy.com/jobs-in-health-insurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-escrow--collection-account-sales": {
+      "url": "https://www.finploy.com/jobs-in-escrow--collection-account-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-warangal": {
+      "url": "https://www.finploy.com/jobs-in-warangal",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-fraud-analytics": {
+      "url": "https://www.finploy.com/jobs-in-fraud-analytics",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-others-in-hr-operations": {
+      "url": "https://www.finploy.com/jobs-in-others-in-hr-operations",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-sales-manager--relationship-manager-relationship-officer": {
+      "url": "https://www.finploy.com/jobs-in-sales-manager--relationship-manager-relationship-officer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/jobs-in-portfolio-stress-testing": {
+      "url": "https://www.finploy.com/jobs-in-portfolio-stress-testing",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/electronica-housing-finance": {
+      "url": "https://www.finploy.com/electronica-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/aditya-birla-housing-finance": {
+      "url": "https://www.finploy.com/aditya-birla-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/apprentice-sales": {
+      "url": "https://www.finploy.com/apprentice-sales",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/centrum-housing-finance-ltd": {
+      "url": "https://www.finploy.com/centrum-housing-finance-ltd",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/assistant-sales-manager-": {
+      "url": "https://www.finploy.com/assistant-sales-manager-",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/motilal-oswal-housing-finance": {
+      "url": "https://www.finploy.com/motilal-oswal-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/niwas-(indostar)-housing-finance": {
+      "url": "https://www.finploy.com/niwas-(indostar)-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/hinduja-housing-finance": {
+      "url": "https://www.finploy.com/hinduja-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/area-sales-manager": {
+      "url": "https://www.finploy.com/area-sales-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/pkf-finance": {
+      "url": "https://www.finploy.com/pkf-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/muthoot-finance-ltd": {
+      "url": "https://www.finploy.com/muthoot-finance-ltd",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/cholamandalam-investment-and-finance": {
+      "url": "https://www.finploy.com/cholamandalam-investment-and-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/vastu-housing-finance-corporation-ltd": {
+      "url": "https://www.finploy.com/vastu-housing-finance-corporation-ltd",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/shubham-housing-finance": {
+      "url": "https://www.finploy.com/shubham-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/svatantra-housing-finance": {
+      "url": "https://www.finploy.com/svatantra-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/kissht-finance": {
+      "url": "https://www.finploy.com/kissht-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/grihum-housing-finance": {
+      "url": "https://www.finploy.com/grihum-housing-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/svasti-finance": {
+      "url": "https://www.finploy.com/svasti-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/electronica-finance": {
+      "url": "https://www.finploy.com/electronica-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/sammaan-capital-(housing-finance)": {
+      "url": "https://www.finploy.com/sammaan-capital-(housing-finance)",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/shiksha-finance": {
+      "url": "https://www.finploy.com/shiksha-finance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/browse-jobs": {
+      "url": "https://www.finploy.com/browse-jobs",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/hire-in-ajmer": {
+      "url": "https://www.finploy.com/hire-in-ajmer",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/privacy-policy": {
+      "url": "https://www.finploy.com/privacy-policy",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/hire-in-almora": {
+      "url": "https://www.finploy.com/hire-in-almora",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/hire-in-aizawl": {
+      "url": "https://www.finploy.com/hire-in-aizawl",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/": {
+      "url": "https://www.finploy.com/",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/about-us": {
+      "url": "https://www.finploy.com/about-us",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/-relationship-manager": {
+      "url": "https://www.finploy.com/-relationship-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/hire-in-adilabad": {
+      "url": "https://www.finploy.com/hire-in-adilabad",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/hire-in-alirajpur": {
+      "url": "https://www.finploy.com/hire-in-alirajpur",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/hire-in-aligarh": {
+      "url": "https://www.finploy.com/hire-in-aligarh",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/terms": {
+      "url": "https://www.finploy.com/terms",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/branch-credit-manager": {
+      "url": "https://www.finploy.com/branch-credit-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/area-credit-head": {
+      "url": "https://www.finploy.com/area-credit-head",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/hire-in-alipurduar": {
+      "url": "https://www.finploy.com/hire-in-alipurduar",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/refund-policy": {
+      "url": "https://www.finploy.com/refund-policy",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/area-technical-manager": {
+      "url": "https://www.finploy.com/area-technical-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/hire-in-akola": {
+      "url": "https://www.finploy.com/hire-in-akola",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/assistant-credit-managers": {
+      "url": "https://www.finploy.com/assistant-credit-managers",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/branch-development-manager": {
+      "url": "https://www.finploy.com/branch-development-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/asst-manager-/-manager-training": {
+      "url": "https://www.finploy.com/asst-manager-/-manager-training",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/area-business-manager": {
+      "url": "https://www.finploy.com/area-business-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/hire-in-ahmedabad": {
+      "url": "https://www.finploy.com/hire-in-ahmedabad",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/aditya-birla-sun-life-insurance": {
+      "url": "https://www.finploy.com/aditya-birla-sun-life-insurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/assistant-legal-manager": {
+      "url": "https://www.finploy.com/assistant-legal-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/hire-in-alappuzha": {
+      "url": "https://www.finploy.com/hire-in-alappuzha",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/branch-credit-head": {
+      "url": "https://www.finploy.com/branch-credit-head",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/shriram-life-insurance": {
+      "url": "https://www.finploy.com/shriram-life-insurance",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/trustlenders-capital-pvt.-ltd.": {
+      "url": "https://www.finploy.com/trustlenders-capital-pvt.-ltd.",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/area-head": {
+      "url": "https://www.finploy.com/area-head",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/contact-us": {
+      "url": "https://www.finploy.com/contact-us",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------": {
+      "url": "https://www.finploy.com/---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/plans": {
+      "url": "https://www.finploy.com/plans",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/branch-credit--manager": {
+      "url": "https://www.finploy.com/branch-credit--manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/index.php": {
+      "url": "https://www.finploy.com/index.php",
+      "status": 301,
+      "accessible": true,
+      "redirect": true
+    },
+    "https://www.finploy.com/area-business-head": {
+      "url": "https://www.finploy.com/area-business-head",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/testimonial": {
+      "url": "https://www.finploy.com/testimonial",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/hire-in-ajitgarh": {
+      "url": "https://www.finploy.com/hire-in-ajitgarh",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/candidate-landingpage": {
+      "url": "https://www.finploy.com/candidate-landingpage",
+      "status": 302,
+      "accessible": true,
+      "redirect": true
+    },
+    "https://www.finploy.com/aditya-birla-money": {
+      "url": "https://www.finploy.com/aditya-birla-money",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/hire-in-ahmednagar": {
+      "url": "https://www.finploy.com/hire-in-ahmednagar",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/hire-in-agra": {
+      "url": "https://www.finploy.com/hire-in-agra",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    },
+    "https://www.finploy.com/area-manager": {
+      "url": "https://www.finploy.com/area-manager",
+      "status": 200,
+      "accessible": true,
+      "redirect": false
+    }
+  },
+  "summary": {
+    "accessible": 788,
+    "errors": 0,
+    "redirects": 2
+  }
+}
