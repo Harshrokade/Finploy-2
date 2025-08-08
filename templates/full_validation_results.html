@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+{% block title %}All Validation Results{% endblock %}
+{% block content %}
+    <h1 class="mb-4 text-center text-primary">All Sitemap Validation Results</h1>
+
+    {% if error %}
+        <div class="alert alert-danger" role="alert">
+            {{ error }}
+        </div>
+    {% elif results %}
+        <div class="table-responsive">
+            <table class="table table-striped table-hover table-bordered">
+                <thead class="thead-dark">
+                    <tr>
+                        <th>URL</th>
+                        <th>Status</th>
+                        <th>Accessible</th>
+                        <th>Redirect</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for item in results %}
+                        <tr>
+                            <td><a href="{{ item.url }}" target="_blank">{{ item.url }}</a></td>
+                            <td>{{ item.status_text }}</td>
+                            <td>
+                                {% if item.accessible %}
+                                    <span class="badge badge-success">✅ Yes</span>
+                                {% else %}
+                                    <span class="badge badge-danger">❌ No</span>
+                                {% endif %}
+                            </td>
+                            <td>
+                                {% if item.redirect %}
+                                    <span class="badge badge-warning">➡️ Yes</span>
+                                {% else %}
+                                    <span class="badge badge-secondary">No</span>
+                                {% endif %}
+                            </td>
+                        </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    {% else %}
+        <div class="alert alert-info" role="alert">
+            No validation results to display. Please generate and validate a sitemap first.
+        </div>
+    {% endif %}
+
+    <div class="text-center mt-4">
+        <a href="/" class="btn btn-primary btn-lg">Back to Dashboard</a>
+    </div>
+{% endblock %}

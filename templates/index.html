@@ -1,0 +1,69 @@
+{% extends "base.html" %}
+{% block title %}Finploy Sitemap Generator{% endblock %}
+{% block content %}
+    <h1 class="mb-4 text-center text-primary">Finploy Sitemap Generator Dashboard</h1>
+
+     Generate Sitemap Section 
+    <div class="card shadow-sm mb-5 p-4">
+        <div class="card-header bg-info text-white">
+            <h2 class="mb-0">Generate Sitemap</h2>
+        </div>
+        <div class="card-body">
+            <form id="generateSitemapForm">
+                <div class="form-group">
+                    <label for="websiteUrl">Website URL:</label>
+                    <input type="url" class="form-control" id="websiteUrl" name="website_url" placeholder="e.g., https://www.finploy.com" required>
+                </div>
+                <button type="submit" class="btn btn-primary btn-lg" id="generateSitemapBtn">Generate Sitemap</button>
+                <div id="generateLoader" class="spinner-border text-primary ml-3" role="status" style="display: none;">
+                    <span class="sr-only">Loading...</span>
+                </div>
+            </form>
+
+            <div id="generateResults" class="mt-4 p-3 border rounded bg-light" style="display: none;">
+                <h3>Generation Results: <span id="generateStatus" class="badge badge-pill"></span></h3>
+                <p id="generateErrorMessage" class="text-danger font-weight-bold" style="display: none;"></p>
+                <p><strong>Total URLs:</strong> <span id="totalUrls"></span></p>
+                <p><strong>Time taken:</strong> <span id="generateTimeTaken"></span> seconds</p>
+                <p><strong>Sample URLs:</strong></p>
+                <ul id="sampleGeneratedUrls" class="list-unstyled"></ul>
+                <p>Sitemap saved to: <code><span id="generatedFileName"></span></code></p>
+                <a id="downloadSitemapBtn" href="#" class="btn btn-success mt-3" style="display: none;">Download Sitemap XML</a>
+                <div class="mt-4">
+                    <canvas id="generationChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+
+     Validate Sitemap Section 
+    <div class="card shadow-sm mb-5 p-4">
+        <div class="card-header bg-warning text-dark">
+            <h2 class="mb-0">Validate Sitemap</h2>
+        </div>
+        <div class="card-body">
+            <form id="validateSitemapForm">
+                <button type="submit" class="btn btn-secondary btn-lg" id="validateSitemapBtn">Validate Sitemap</button>
+                <div id="validateLoader" class="spinner-border text-secondary ml-3" role="status" style="display: none;">
+                    <span class="sr-only">Loading...</span>
+                </div>
+            </form>
+
+            <div id="validateResults" class="mt-4 p-3 border rounded bg-light" style="display: none;">
+                <h3>Validation Results:</h3>
+                <p><strong>URLs Tested:</strong> <span id="totalTestedUrls"></span></p>
+                <p><strong>Successful:</strong> <span id="successfulUrls" class="text-success"></span></p>
+                <p><strong>Errors:</strong> <span id="errorUrls" class="text-danger"></span></p>
+                <p><strong>Redirects:</strong> <span id="redirectUrls" class="text-warning"></span></p>
+                <p><strong>Time taken:</strong> <span id="validateTimeTaken"></span> seconds</p>
+                <p><strong>Sample Validated URLs:</strong></p>
+                <ul id="sampleValidatedUrls" class="list-unstyled"></ul>
+                <a href="{{ url_for('full_validation_results') }}" class="btn btn-info mt-3" id="showAllValidationBtn" style="display: none;">Show All Validation Results</a>
+                <a id="downloadValidationReportBtn" href="#" class="btn btn-success mt-3 ml-2" style="display: none;">Download Validation Report JSON</a>
+                <div class="mt-4">
+                    <canvas id="validationChart"></canvas>
+                </div>
+            </div>
+        </div>
+    </div>
+{% endblock %}
